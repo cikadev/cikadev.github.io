@@ -1,0 +1,12 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build-and-deploy:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Build & Deploy to GitHub Pages
+      uses: BryanSchuetz/jekyll-deploy-gh-pages@1.0
