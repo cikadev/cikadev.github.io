@@ -24,7 +24,7 @@ Klik [tutorial](https://code.visualstudio.com/docs/editor/userdefinedsnippets) n
 
 	Tools > Developer > New Snippet...
 
-Berikut [tutorial](https://www.freecodecamp.org/news/a-guide-to-preserving-your-wrists-with-sublime-text-snippets-7541662a53f2/) nya
+Berikut [tutorial](https://www.freecodecamp.org/news/a-guide-to-preserving-your-wrists-with-sublime-text-snippets-7541662a53f2/) nya atau [disini](https://sublime-text-unofficial-documentation.readthedocs.io/en/stable/extensibility/snippets.html)
 
 
 ## CPC Solving method ##
