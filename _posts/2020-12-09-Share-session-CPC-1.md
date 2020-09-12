@@ -47,7 +47,7 @@ Ada juga tipe masalah di luar competitive programming yang lumayan rumit untuk d
 
 ----------
 
-### Referensi ###
+###  Referensi  ###
 
 - [Competitive Programming and Data Structures Book](https://drive.google.com/drive/folders/1H61wNx2LHL7nRVDAa-JStG6_dIkphYEJ?usp=sharing "Competitive Programming and Data Structures Books")
 - [Library Genesis - Tempat pencarian buku](http://libgen.rs)
