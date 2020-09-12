@@ -3,7 +3,7 @@
 Halo, ini **summary** dari sharing session
 competitive programming (**CPC**) tadi:
 
-## Template Code (Snippet)##
+## Template Code (Snippet) ##
 
 Untuk mempersingkat waktu me-coding, kita bisa memakai template code. Template code adalah codingan yang sudah tersedia sehingga bisa di suggest saat live-coding. Biasanya terdapat di berbagai IDE. Kita bisa membuat  template dan dijadikan pre-code seperti algoritma yang panjang ataupun loop yang termodifikasi.
 
