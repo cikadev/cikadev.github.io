@@ -1,4 +1,4 @@
-# Summary CPC share session #2 #
+# Summary CPC share session 2 #
 
 ## Big-O notation ##
 
