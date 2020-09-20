@@ -208,10 +208,10 @@ The projects source code are available for public [https://github.com/andraantar
 
 Reference
 
-- https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast/
-- https://www.secondstate.io/
-- https://devcenter.heroku.com/articles/build-docker-images-heroku-yml
+- [https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast/](https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast/)
+- [https://www.secondstate.io/](https://www.secondstate.io/)
+- [https://devcenter.heroku.com/articles/build-docker-images-heroku-yml](https://devcenter.heroku.com/articles/build-docker-images-heroku-yml)
 
 ---
 
-This article was originally posted in my blog https://andraaa.my.id/blog/run-webassembly-outside-browser-using-second-state-vm/
+This article was originally posted in my blog [https://andraaa.my.id/blog/run-webassembly-outside-browser-using-second-state-vm/](https://andraaa.my.id/blog/run-webassembly-outside-browser-using-second-state-vm/)
