@@ -1,6 +1,10 @@
-# Summary CPC share session #2 #
+---
+title: "Summary of CPC share session #2"
+date: 2020-09-19
+layout: post
+---
 
-## Big-O notation ##
+## Big-O notation
 
 Notasi Big-O dipakai untuk mendefinisikan kompleksitas dari sebuah algoritma. Notasi nya ialah `O(n)` dimana `n` adalah banyak nya input.
 
@@ -16,7 +20,7 @@ Upper-bound ini untuk memudahkan kita menganalisis kompleksitas karena jika algo
 Beberapa tipe-tipe kompleksitas ada:
 
 
-### Constant Complexity ###
+### Constant Complexity
 
 	O(n) = 1
 
@@ -24,7 +28,7 @@ Algoritma yang memiliki upper-bound dari fungsi konstan memiliki waktu yang sama
 
 Contoh: *Mengakses array*
 
-### Linear Complexity ###
+### Linear Complexity
 
 	O(n) = n
 
@@ -32,7 +36,7 @@ Algoritma berjalan dalam waktu yang bertambah secara linear seiring bertambahnya
 
 Contoh: *Sebuah single loop yang simpel*
 
-### Logarithmic Complexity ###
+### Logarithmic Complexity
 
 	O(n) = log n
 
@@ -40,7 +44,7 @@ Algoritma yang memiliki kompleksitas logaritmik melimitasi waktu yang berjalan m
 
 Contoh: *Binary tree, Binary search*
 
-### Quadratic Complexity ###
+### Quadratic Complexity
 	
 
 	O(n) = n^2
@@ -50,31 +54,29 @@ Algoritma berjalan 2 kali lebih lama dari input yang bertambah. Algoritma dengan
 Contoh: *2-nested loops, Insertion/Bubble/Selection sort*
 
 
-## Website CPC dan lainnya ##
+## Website CPC dan lainnya
 
 Berikut adalah website yang cocok untuk melatih skill programming. Skill ini sangat bagus bagi kalian yang menginginkan karir di *Software Engineering dan Development*.
 
-### [CodeForces](https://codeforces.com/) ###
+### [CodeForces](https://codeforces.com/)
 
 Website yang dipunyai oleh Rusia ini memiliki kelebihan seperti *banyaknya* jumlah **Contest Virtual** dan **Training Contest** yang terbuka. Kalian bisa mencoba simulasi lomba CPC di wbsite ini.
 
-### [URI Online Judge](https://www.urionlinejudge.com.br/) ###
+### [URI Online Judge](https://www.urionlinejudge.com.br/)
 
 Dimiliki oleh region Brazil, website ini sangat bagus untuk **beginner** yang baru melirik CPC. Jika kode kalian salah, website ini memberitahukan *persentase* kesalahannya.
 
-### [TLX Toki Indonesia](https://tlx.toki.id/) ###
+### [TLX Toki Indonesia](https://tlx.toki.id/)
 
 Milik Indonesia, website ini sangat bagus bagi kalian yang ingin ikut perlombaan CPC antar **kampus negeri**. Banyak arsip soal dari kampus seperti ITB, UI, UGM, BINUS, dkk  diambil dari website ini.
 
-### [HackerRank](https://www.hackerrank.com/) ###
+### [HackerRank](https://www.hackerrank.com/)
 
 Website ini tidak terlalu fokus ke CPC. Namun sangat bagus untuk kalian yang ingin membangun karir developer atau SoftEng. Website ini memberi koneksi ke perusahaan yang membutuhkan tenaga IT. Ada banyak soal **Coding Interview** di website ini.
 
-
-### [StackOverflow](https://stackoverflow.com/) ###
+### [StackOverflow](https://stackoverflow.com/)
 
 Programmer/coder macam apa yang tak kenal *StackOverflow*? Website ini membuka *komunitas IT* untuk bertanya dan diskusi seputar masalah teknis di bidangnya. Walaupun komunitas ini terbuka, website ini memiliki aturan diskusi yang sangat deskriptif. Di sini, kalian bisa mendapat **reputasi** dari hasil diskusi, vote, pertanyaan, dll. Nilai reputasi itu sangat berguna jika ingin menaruhnya di CV kalian nanti. **Recruiter IT** biasanya merujuk ke website ini. Karena itu, kalian wajib punya akun di website ini :)
-
 
 ----------
 
